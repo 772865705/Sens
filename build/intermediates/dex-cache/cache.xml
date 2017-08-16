@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AS\SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\Resource\HandJoy_OAD_PROG_20170806\HandJoy_OAD_PROG\oad_app_src\sensortag\sensortag20\BleSensorTag\build\intermediates\pre-dexed\debug\support-v4-19.1.0-2acc645ddf86a8035f3b7300b68ccb3650e5594f.jar" />
+    </item>
+    <item
+        jar="E:\Resource\HandJoy_OAD_PROG_20170806\HandJoy_OAD_PROG\oad_app_src\sensortag\sensortag20\BleSensorTag\libs\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02e433eb0fda11fe7170cf8214ba2f4d165c29b6">
+        <dex dex="E:\Resource\HandJoy_OAD_PROG_20170806\HandJoy_OAD_PROG\oad_app_src\sensortag\sensortag20\BleSensorTag\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.0.2-6bc88040177af9bcbbf130d42941f037a0da1ed0.jar" />
+    </item>
+    <item
+        jar="E:\Resource\HandJoy_OAD_PROG_20170806\HandJoy_OAD_PROG\oad_app_src\sensortag\sensortag20\BleSensorTag\libs\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b8420e57139cc627a55be0c17b6687e92d7460f">
+        <dex dex="E:\Resource\HandJoy_OAD_PROG_20170806\HandJoy_OAD_PROG\oad_app_src\sensortag\sensortag20\BleSensorTag\build\intermediates\pre-dexed\debug\org.eclipse.paho.android.service-1.0.2-33d273a3470ea16b9877bfdb905595727576fea8.jar" />
+    </item>
+
+</items>
