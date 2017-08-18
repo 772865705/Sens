@@ -53,6 +53,7 @@
 package com.example.ti.ble.common;
 
 import java.lang.reflect.Method;
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Timer;
@@ -165,8 +166,8 @@ public class BluetoothLeService extends Service {
 
 			BluetoothDevice device = gatt.getDevice();
 			String address = device.getAddress();
-			// Log.d(TAG, "onConnectionStateChange (" + address + ") " + newState +
-			// " status: " + status);
+			 Log.d(TAG, "onConnectionStateChange (" + address + ") " + newState +
+			 " status: " + status);
 
 			try {
 				switch (newState) {
@@ -195,7 +196,8 @@ public class BluetoothLeService extends Service {
 		@Override
 		public void onCharacteristicChanged(BluetoothGatt gatt,
 		    BluetoothGattCharacteristic characteristic) {
-			broadcastUpdate(ACTION_DATA_NOTIFY, characteristic,
+            Log.i(TAG, "onCharacteristicChanged: "+Arrays.toString(characteristic.getValue()));
+            broadcastUpdate(ACTION_DATA_NOTIFY, characteristic,
 			    BluetoothGatt.GATT_SUCCESS);
 		}
 
@@ -215,12 +217,14 @@ public class BluetoothLeService extends Service {
                 }
                 lock.unlock();
             }
+
 			broadcastUpdate(ACTION_DATA_READ, characteristic, status);
 		}
 
 		@Override
 		public void onCharacteristicWrite(BluetoothGatt gatt,
 		    BluetoothGattCharacteristic characteristic, int status) {
+            Log.i(TAG, "onCharacteristicWrite: "+Arrays.toString(characteristic.getValue()));
             if (blocking)unlockBlockingThread(status);
             if (nonBlockQueue.size() > 0) {
                 lock.lock();
@@ -399,7 +403,8 @@ public class BluetoothLeService extends Service {
         bleRequest req = new bleRequest();
         req.status = bleRequestStatus.not_queued;
         req.characteristic = characteristic;
-        req.operation = bleRequestOperation.rdBlocking;
+		Log.e(TAG, "readCharacteristic: "+ Arrays.toString(characteristic.getValue() ));
+		req.operation = bleRequestOperation.rdBlocking;
         addRequestToQueue(req);
         boolean finished = false;
         while (!finished) {
@@ -423,8 +428,8 @@ public class BluetoothLeService extends Service {
         byte[] val = new byte[1];
         val[0] = b;
         characteristic.setValue(val);
-
-        bleRequest req = new bleRequest();
+		Log.e(TAG, "writeCharacteristic: byte:"+b );
+		bleRequest req = new bleRequest();
         req.status = bleRequestStatus.not_queued;
         req.characteristic = characteristic;
         req.operation = bleRequestOperation.wrBlocking;
@@ -445,6 +450,7 @@ public class BluetoothLeService extends Service {
 	}
 	public int writeCharacteristic(
 		    BluetoothGattCharacteristic characteristic, byte[] b) {
+		Log.e(TAG, "writeCharacteristic: bytes:"+Arrays.toString(b) );
         characteristic.setValue(b);
         bleRequest req = new bleRequest();
         req.status = bleRequestStatus.not_queued;
@@ -466,6 +472,7 @@ public class BluetoothLeService extends Service {
         return -2;
 		}
 	public int writeCharacteristic(BluetoothGattCharacteristic characteristic) {
+		Log.e(TAG, "writeCharacteristic: "+Arrays.toString(characteristic.getValue()) );
         bleRequest req = new bleRequest();
         req.status = bleRequestStatus.not_queued;
         req.characteristic = characteristic;
@@ -487,7 +494,8 @@ public class BluetoothLeService extends Service {
 	}
 
     public boolean writeCharacteristicNonBlock(BluetoothGattCharacteristic characteristic) {
-        bleRequest req = new bleRequest();
+		Log.e(TAG, "writeCharacteristicNonBlock: "+Arrays.toString(characteristic.getValue()) );
+		bleRequest req = new bleRequest();
         req.status = bleRequestStatus.not_queued;
         req.characteristic = characteristic;
         req.operation = bleRequestOperation.wr;

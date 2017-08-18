@@ -6,11 +6,45 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="BluetoothLeService" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="info" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c567df3-abdf-4827-af66-65337c517f3d" name="Default" comment="" />
+    <list default="true" id="7c567df3-abdf-4827-af66-65337c517f3d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/org_eclipse_paho_android_service_1_0_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/org_eclipse_paho_client_mqttv3_1_0_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_19_1_0.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$1.class" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$2.class" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$3.class" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$DisconnectTimerTask.class" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$DisconnectTimerTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$LocalBinder.class" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$LocalBinder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$bleRequest.class" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$bleRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$bleRequestOperation.class" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$bleRequestOperation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$bleRequestStatus.class" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService$bleRequestStatus.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService.class" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/classes/debug/com/example/ti/ble/common/BluetoothLeService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/dex/debug/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/mockable-android-21.jar" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/mockable-android-21.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.0.2-33d273a3470ea16b9877bfdb905595727576fea8.jar" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.0.2-33d273a3470ea16b9877bfdb905595727576fea8.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2-6bc88040177af9bcbbf130d42941f037a0da1ed0.jar" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2-6bc88040177af9bcbbf130d42941f037a0da1ed0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/pre-dexed/debug/support-v4-19.1.0-2acc645ddf86a8035f3b7300b68ccb3650e5594f.jar" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/pre-dexed/debug/support-v4-19.1.0-2acc645ddf86a8035f3b7300b68ccb3650e5594f.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/res/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/outputs/apk/BleSensorTag-debug-unaligned.apk" afterPath="$PROJECT_DIR$/BleSensorTag/build/outputs/apk/BleSensorTag-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/outputs/apk/BleSensorTag-debug.apk" afterPath="$PROJECT_DIR$/BleSensorTag/build/outputs/apk/BleSensorTag-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/BleSensorTag.iml" afterPath="$PROJECT_DIR$/BleSensorTag/BleSensorTag.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/BleSensorTag/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java" afterPath="$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+    </list>
     <ignored path="sensortag20.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -46,24 +80,8 @@
       <file leaf-file-name="FwUpdateActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/FwUpdateActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="664">
-              <caret line="363" column="27" selection-start-line="363" selection-start-column="27" selection-end-line="363" selection-end-column="27" />
-              <folding>
-                <element signature="e#11430#13021#0" expanded="true" />
-                <element signature="e#13020#13021#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_fwupdate.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/res/layout/activity_fwupdate.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="93" column="29" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
+            <state relative-caret-position="214">
+              <caret line="538" column="25" selection-start-line="538" selection-start-column="25" selection-end-line="538" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -72,49 +90,30 @@
       <file leaf-file-name="BluetoothLeService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="197" column="55" selection-start-line="197" selection-start-column="55" selection-end-line="197" selection-end-column="55" />
+            <state relative-caret-position="289">
+              <caret line="95" column="43" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SensorTagMovementProfile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/SensorTagMovementProfile.java">
+      <file leaf-file-name="Sensor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/Sensor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="147" column="47" selection-start-line="147" selection-start-column="47" selection-end-line="147" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SensorTagMovementTableRow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/SensorTagMovementTableRow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SensorTagDisplayProfile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/SensorTagDisplayProfile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="141" column="52" selection-start-line="141" selection-start-column="52" selection-end-line="141" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TILampControlProfile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/ti/profiles/TILampControlProfile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="175" column="50" selection-start-line="175" selection-start-column="50" selection-end-line="175" selection-end-column="50" />
-              <folding />
+            <state relative-caret-position="7225">
+              <caret line="346" column="16" selection-start-line="346" selection-start-column="16" selection-end-line="346" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#3195#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#14584#14585#0" expanded="false" />
+                <element signature="e#14608#14609#0" expanded="false" />
+                <element signature="e#14637#14638#0" expanded="false" />
+                <element signature="e#14658#14659#0" expanded="false" />
+                <element signature="e#14684#14685#0" expanded="false" />
+                <element signature="e#14702#14703#0" expanded="false" />
+                <element signature="e#14730#14731#0" expanded="false" />
+                <element signature="e#14750#14751#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,24 +121,127 @@
       <file leaf-file-name="DeviceActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/DeviceActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="595" column="68" selection-start-line="595" selection-start-column="68" selection-end-line="595" selection-end-column="68" />
-              <folding />
+            <state relative-caret-position="12550">
+              <caret line="642" column="62" selection-start-line="642" selection-start-column="62" selection-end-line="642" selection-end-column="62" />
+              <folding>
+                <element signature="e#0#3286#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#6530#6531#0" expanded="false" />
+                <element signature="e#6575#6576#0" expanded="false" />
+                <element signature="e#12897#12898#0" expanded="false" />
+                <element signature="e#12933#12934#0" expanded="false" />
+                <element signature="e#12966#12967#0" expanded="false" />
+                <element signature="e#12995#12996#0" expanded="false" />
+                <element signature="e#13039#13040#0" expanded="false" />
+                <element signature="e#13073#13074#0" expanded="false" />
+                <element signature="e#13125#13126#0" expanded="false" />
+                <element signature="e#13167#13168#0" expanded="false" />
+                <element signature="e#13212#13213#0" expanded="false" />
+                <element signature="e#13247#13248#0" expanded="false" />
+                <element signature="e#13894#13895#0" expanded="false" />
+                <element signature="e#13932#13933#0" expanded="false" />
+                <element signature="e#14378#14379#0" expanded="false" />
+                <element signature="e#14446#14447#0" expanded="false" />
+                <element signature="e#14648#14677#0" expanded="false" />
+                <element signature="e#16350#32086#0" expanded="false" />
+                <element signature="e#17546#19485#0" expanded="false" />
+                <element signature="e#18296#18796#0" expanded="false" />
+                <element signature="e#18795#18796#0" expanded="false" />
+                <element signature="e#18890#19276#0" expanded="false" />
+                <element signature="e#19275#19276#0" expanded="false" />
+                <element signature="e#19484#19485#0" expanded="false" />
+                <element signature="e#19689#20220#0" expanded="false" />
+                <element signature="e#20219#20220#0" expanded="false" />
+                <element signature="e#20440#20782#0" expanded="false" />
+                <element signature="e#20781#20782#0" expanded="false" />
+                <element signature="e#21602#21924#0" expanded="false" />
+                <element signature="e#21923#21924#0" expanded="false" />
+                <element signature="e#30655#31055#0" expanded="false" />
+                <element signature="e#31054#31055#0" expanded="false" />
+                <element signature="e#31185#31620#0" expanded="false" />
+                <element signature="e#31619#31620#0" expanded="false" />
+                <element signature="e#31741#32036#0" expanded="false" />
+                <element signature="e#32035#32036#0" expanded="false" />
+                <element signature="e#32085#32086#0" expanded="false" />
+                <element signature="e#37901#37902#0" expanded="false" />
+                <element signature="e#37955#37956#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScanView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/ScanView.java">
+      <file leaf-file-name="DeviceView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/DeviceView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="228" column="5" selection-start-line="228" selection-start-column="5" selection-end-line="228" selection-end-column="5" />
+            <state relative-caret-position="1325">
+              <caret line="110" column="14" selection-start-line="110" selection-start-column="14" selection-end-line="110" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#3214#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#4630#4631#0" expanded="false" />
+                <element signature="e#4668#4669#0" expanded="false" />
+                <element signature="e#4707#4708#0" expanded="false" />
+                <element signature="e#4730#4731#0" expanded="false" />
+                <element signature="e#4767#4768#0" expanded="false" />
+                <element signature="e#4789#4790#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_pager.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/res/layout/fragment_pager.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewPagerActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/ViewPagerActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3225">
+              <caret line="199" column="21" selection-start-line="199" selection-start-column="21" selection-end-line="199" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#3221#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#6825#6826#0" expanded="false" />
+                <element signature="e#6864#6865#0" expanded="false" />
+                <element signature="e#7704#7705#0" expanded="false" />
+                <element signature="e#7752#7753#0" expanded="false" />
+                <element signature="e#7795#7796#0" expanded="false" />
+                <element signature="e#7830#7831#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericBluetoothProfile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/GenericBluetoothProfile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2375">
+              <caret line="160" column="16" selection-start-line="160" selection-start-column="16" selection-end-line="160" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#3167#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#7158#7159#0" expanded="false" />
+                <element signature="e#7181#7182#0" expanded="false" />
+                <element signature="e#8487#8488#0" expanded="false" />
+                <element signature="e#8514#8515#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -1443,10 +1545,13 @@
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
         <option value="$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/util/Conversion.java" />
         <option value="$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/MainActivity.java" />
-        <option value="$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java" />
         <option value="$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/DeviceActivity.java" />
         <option value="$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/FwUpdateActivity_CC26xx.java" />
         <option value="$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/FwUpdateActivity.java" />
+        <option value="$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/SensorTagLuxometerProfile.java" />
+        <option value="$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/ViewPagerActivity.java" />
+        <option value="$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/DeviceView.java" />
+        <option value="$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java" />
       </list>
     </option>
   </component>
@@ -1463,11 +1568,11 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -1481,50 +1586,112 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
-        <subPane />
-      </pane>
-      <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="sensortag20" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="sensortag20" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BleSensorTag" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+              <option name="myItemId" value="sensortag20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="sensortag20" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensortag20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="BleSensorTag" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensortag20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+              <option name="myItemId" value="sensortag20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BleSensorTag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensortag20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensortag20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BleSensorTag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outputs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensortag20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sensortag20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BleSensorTag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outputs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1851,33 +2018,31 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.311804" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5100223" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.311804" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.96213806" sideWeight="0.50319827" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.96213806" sideWeight="0.4968017" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1977612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55679286" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3062361" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1885,6 +2050,8 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5545657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1901,24 +2068,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java</url>
-          <line>448</line>
-          <properties />
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java</url>
-          <line>398</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java</url>
-          <line>468</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/SensorTagDisplayProfile.java</url>
           <line>141</line>
@@ -1951,113 +2100,51 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java</url>
-          <line>423</line>
+          <line>428</line>
           <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java</url>
+          <line>500</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java</url>
+          <line>478</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java</url>
+          <line>453</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java</url>
+          <line>404</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java</url>
+          <line>405</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="32" />
+      <option name="time" value="40" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1975">
-          <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/util/Conversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="68" column="11" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
-          <folding>
-            <element signature="e#3549#3550#0" expanded="false" />
-            <element signature="e#3599#3600#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/res/layout/activity_fwupdate.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1250">
-          <caret line="50" column="36" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/DeviceActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12375">
-          <caret line="632" column="0" selection-start-line="632" selection-start-column="0" selection-end-line="632" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/ti/profiles/TIOADProfile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="78" column="59" selection-start-line="78" selection-start-column="51" selection-end-line="78" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/ti/profiles/TIOADProfileTableRow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="51" column="62" selection-start-line="51" selection-start-column="62" selection-end-line="51" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2250">
-          <caret line="177" column="0" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#3216#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#6664#6665#0" expanded="false" />
-            <element signature="e#6691#6692#0" expanded="false" />
-            <element signature="e#12458#12459#0" expanded="false" />
-            <element signature="e#12479#12480#0" expanded="false" />
-            <element signature="e#12579#12580#0" expanded="false" />
-            <element signature="e#12622#12623#0" expanded="false" />
-            <element signature="e#13352#13353#0" expanded="false" />
-            <element signature="e#13379#13380#0" expanded="false" />
-            <element signature="e#15111#15112#0" expanded="false" />
-            <element signature="e#15140#15141#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/FwUpdateActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#11430#13021#0" expanded="true" />
-            <element signature="e#13020#13021#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2065,7 +2152,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13100">
           <caret line="639" column="10" selection-start-line="639" selection-start-column="10" selection-end-line="639" selection-end-column="10" />
-          <folding />
+          <folding>
+            <element signature="e#0#3286#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6530#6531#0" expanded="false" />
+            <element signature="e#6575#6576#0" expanded="false" />
+            <element signature="e#12897#12898#0" expanded="false" />
+            <element signature="e#12933#12934#0" expanded="false" />
+            <element signature="e#12966#12967#0" expanded="false" />
+            <element signature="e#12995#12996#0" expanded="false" />
+            <element signature="e#13039#13040#0" expanded="false" />
+            <element signature="e#13073#13074#0" expanded="false" />
+            <element signature="e#13125#13126#0" expanded="false" />
+            <element signature="e#13167#13168#0" expanded="false" />
+            <element signature="e#13212#13213#0" expanded="false" />
+            <element signature="e#13247#13248#0" expanded="false" />
+            <element signature="e#13894#13895#0" expanded="false" />
+            <element signature="e#13932#13933#0" expanded="false" />
+            <element signature="e#14378#14379#0" expanded="false" />
+            <element signature="e#14446#14447#0" expanded="false" />
+            <element signature="e#14648#14677#0" expanded="false" />
+            <element signature="e#16350#32086#0" expanded="false" />
+            <element signature="e#17546#19485#0" expanded="false" />
+            <element signature="e#18296#18796#0" expanded="false" />
+            <element signature="e#18795#18796#0" expanded="false" />
+            <element signature="e#18890#19276#0" expanded="false" />
+            <element signature="e#19275#19276#0" expanded="false" />
+            <element signature="e#19484#19485#0" expanded="false" />
+            <element signature="e#19689#20220#0" expanded="false" />
+            <element signature="e#20219#20220#0" expanded="false" />
+            <element signature="e#20440#20782#0" expanded="false" />
+            <element signature="e#20781#20782#0" expanded="false" />
+            <element signature="e#21602#21924#0" expanded="false" />
+            <element signature="e#21923#21924#0" expanded="false" />
+            <element signature="e#30655#31055#0" expanded="false" />
+            <element signature="e#31054#31055#0" expanded="false" />
+            <element signature="e#31185#31620#0" expanded="false" />
+            <element signature="e#31619#31620#0" expanded="false" />
+            <element signature="e#31741#32036#0" expanded="false" />
+            <element signature="e#32035#32036#0" expanded="false" />
+            <element signature="e#32085#32086#0" expanded="false" />
+            <element signature="e#37901#37902#0" expanded="false" />
+            <element signature="e#37955#37956#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2182,13 +2311,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/AS/SDK/sources/android-21/android/app/Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="4685" column="16" selection-start-line="4685" selection-start-column="16" selection-end-line="4685" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1925">
@@ -2208,45 +2330,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="57" column="48" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/util/Conversion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
-          <folding>
-            <element signature="e#3549#3550#0" expanded="false" />
-            <element signature="e#3599#3600#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12225">
-          <caret line="585" column="24" selection-start-line="585" selection-start-column="24" selection-end-line="585" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#3216#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#6664#6665#0" expanded="false" />
-            <element signature="e#6691#6692#0" expanded="false" />
-            <element signature="e#12458#12459#0" expanded="false" />
-            <element signature="e#12479#12480#0" expanded="false" />
-            <element signature="e#12579#12580#0" expanded="false" />
-            <element signature="e#12622#12623#0" expanded="false" />
-            <element signature="e#13352#13353#0" expanded="false" />
-            <element signature="e#13379#13380#0" expanded="false" />
-            <element signature="e#15111#15112#0" expanded="false" />
-            <element signature="e#15140#15141#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2254,17 +2351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-81">
           <caret line="143" column="49" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/res/layout/fragment_pager.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -2272,7 +2358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="620" column="25" selection-start-line="620" selection-start-column="25" selection-end-line="620" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2304,23 +2389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/ViewPagerActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="78" column="40" selection-start-line="78" selection-start-column="40" selection-end-line="78" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#3221#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#6769#6871#0" expanded="false" />
-            <element signature="e#6870#6871#0" expanded="false" />
-            <element signature="e#7704#7705#0" expanded="false" />
-            <element signature="e#7752#7753#0" expanded="false" />
-            <element signature="e#7795#7796#0" expanded="false" />
-            <element signature="e#7830#7831#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/IBMIoTCloudProfile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
@@ -2329,86 +2397,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/GenericBluetoothProfile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="133" column="79" selection-start-line="133" selection-start-column="79" selection-end-line="133" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/FwUpdateActivity_CC26xx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="819">
-          <caret line="695" column="29" selection-start-line="695" selection-start-column="29" selection-end-line="695" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/ScanView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="228" column="5" selection-start-line="228" selection-start-column="5" selection-end-line="228" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/DeviceActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="595" column="68" selection-start-line="595" selection-start-column="68" selection-end-line="595" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/SensorTagMovementTableRow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/SensorTagDisplayProfile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="1850">
           <caret line="141" column="52" selection-start-line="141" selection-start-column="52" selection-end-line="141" selection-end-column="52" />
-          <folding />
+          <folding>
+            <element signature="e#0#3167#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#8773#8774#0" expanded="false" />
+            <element signature="e#8851#8852#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/SensorTagMovementProfile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="2000">
           <caret line="147" column="47" selection-start-line="147" selection-start-column="47" selection-end-line="147" selection-end-column="47" />
-          <folding />
+          <folding>
+            <element signature="e#0#3168#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/ti/profiles/TILampControlProfile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="3900">
           <caret line="175" column="50" selection-start-line="175" selection-start-column="50" selection-end-line="175" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/res/layout/activity_fwupdate.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="93" column="29" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="197" column="55" selection-start-line="197" selection-start-column="55" selection-end-line="197" selection-end-column="55" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2420,14 +2446,251 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/util/firmwareEntriesParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/FwUpdateActivity_CC26xx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="239" column="43" selection-start-line="239" selection-start-column="43" selection-end-line="239" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/assets/firmware_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-565">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/res/layout/activity_fwupdate.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="139" column="32" selection-start-line="139" selection-start-column="25" selection-end-line="139" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://D:/AS/SDK/sources/android-21/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="4685" column="46" selection-start-line="4685" selection-start-column="35" selection-end-line="4685" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/ScanView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="140" column="7" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/AS/SDK/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0-sources.jar!/android/support/v4/app/FragmentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="834" column="16" selection-start-line="834" selection-start-column="16" selection-end-line="834" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="360" column="43" selection-start-line="360" selection-start-column="43" selection-end-line="360" selection-end-column="43" />
+          <folding>
+            <element signature="e#13352#13353#0" expanded="false" />
+            <element signature="e#13379#13380#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/btsig/profiles/DeviceInformationServiceProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="78" column="44" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/SensorTagLuxometerProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="101" column="30" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#3169#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/Sensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7225">
+          <caret line="346" column="16" selection-start-line="346" selection-start-column="16" selection-end-line="346" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#3195#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#14584#14585#0" expanded="false" />
+            <element signature="e#14608#14609#0" expanded="false" />
+            <element signature="e#14637#14638#0" expanded="false" />
+            <element signature="e#14658#14659#0" expanded="false" />
+            <element signature="e#14684#14685#0" expanded="false" />
+            <element signature="e#14702#14703#0" expanded="false" />
+            <element signature="e#14730#14731#0" expanded="false" />
+            <element signature="e#14750#14751#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/GenericBluetoothProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="160" column="16" selection-start-line="160" selection-start-column="16" selection-end-line="160" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#3167#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#7158#7159#0" expanded="false" />
+            <element signature="e#7181#7182#0" expanded="false" />
+            <element signature="e#8487#8488#0" expanded="false" />
+            <element signature="e#8514#8515#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/res/layout/fragment_pager.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/ViewPagerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3225">
+          <caret line="199" column="21" selection-start-line="199" selection-start-column="21" selection-end-line="199" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#3221#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6825#6826#0" expanded="false" />
+            <element signature="e#6864#6865#0" expanded="false" />
+            <element signature="e#7704#7705#0" expanded="false" />
+            <element signature="e#7752#7753#0" expanded="false" />
+            <element signature="e#7795#7796#0" expanded="false" />
+            <element signature="e#7830#7831#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AS/SDK/sources/android-21/android/bluetooth/BluetoothGatt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="884" column="27" selection-start-line="884" selection-start-column="27" selection-end-line="884" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/DeviceActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12550">
+          <caret line="642" column="62" selection-start-line="642" selection-start-column="62" selection-end-line="642" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#3286#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6530#6531#0" expanded="false" />
+            <element signature="e#6575#6576#0" expanded="false" />
+            <element signature="e#12897#12898#0" expanded="false" />
+            <element signature="e#12933#12934#0" expanded="false" />
+            <element signature="e#12966#12967#0" expanded="false" />
+            <element signature="e#12995#12996#0" expanded="false" />
+            <element signature="e#13039#13040#0" expanded="false" />
+            <element signature="e#13073#13074#0" expanded="false" />
+            <element signature="e#13125#13126#0" expanded="false" />
+            <element signature="e#13167#13168#0" expanded="false" />
+            <element signature="e#13212#13213#0" expanded="false" />
+            <element signature="e#13247#13248#0" expanded="false" />
+            <element signature="e#13894#13895#0" expanded="false" />
+            <element signature="e#13932#13933#0" expanded="false" />
+            <element signature="e#14378#14379#0" expanded="false" />
+            <element signature="e#14446#14447#0" expanded="false" />
+            <element signature="e#14648#14677#0" expanded="false" />
+            <element signature="e#16350#32086#0" expanded="false" />
+            <element signature="e#17546#19485#0" expanded="false" />
+            <element signature="e#18296#18796#0" expanded="false" />
+            <element signature="e#18795#18796#0" expanded="false" />
+            <element signature="e#18890#19276#0" expanded="false" />
+            <element signature="e#19275#19276#0" expanded="false" />
+            <element signature="e#19484#19485#0" expanded="false" />
+            <element signature="e#19689#20220#0" expanded="false" />
+            <element signature="e#20219#20220#0" expanded="false" />
+            <element signature="e#20440#20782#0" expanded="false" />
+            <element signature="e#20781#20782#0" expanded="false" />
+            <element signature="e#21602#21924#0" expanded="false" />
+            <element signature="e#21923#21924#0" expanded="false" />
+            <element signature="e#30655#31055#0" expanded="false" />
+            <element signature="e#31054#31055#0" expanded="false" />
+            <element signature="e#31185#31620#0" expanded="false" />
+            <element signature="e#31619#31620#0" expanded="false" />
+            <element signature="e#31741#32036#0" expanded="false" />
+            <element signature="e#32035#32036#0" expanded="false" />
+            <element signature="e#32085#32086#0" expanded="false" />
+            <element signature="e#37901#37902#0" expanded="false" />
+            <element signature="e#37955#37956#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/res/layout/generic_services_browser.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/DeviceView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="110" column="14" selection-start-line="110" selection-start-column="14" selection-end-line="110" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#3214#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4630#4631#0" expanded="false" />
+            <element signature="e#4668#4669#0" expanded="false" />
+            <element signature="e#4707#4708#0" expanded="false" />
+            <element signature="e#4730#4731#0" expanded="false" />
+            <element signature="e#4767#4768#0" expanded="false" />
+            <element signature="e#4789#4790#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/common/BluetoothLeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="95" column="43" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BleSensorTag/src/main/java/com/example/ti/ble/sensortag/FwUpdateActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="363" column="27" selection-start-line="363" selection-start-column="27" selection-end-line="363" selection-end-column="27" />
-          <folding>
-            <element signature="e#11430#13021#0" expanded="true" />
-            <element signature="e#13020#13021#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="214">
+          <caret line="538" column="25" selection-start-line="538" selection-start-column="25" selection-end-line="538" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
